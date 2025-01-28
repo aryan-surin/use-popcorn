@@ -10,6 +10,6 @@ root.render(
   <React.StrictMode>
     {/* <App /> */}
     <StartRaiting maxRaiting={5} />
-    <StartRaiting />
+    <StartRaiting size='24' />
   </React.StrictMode>
 );
